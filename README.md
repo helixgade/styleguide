@@ -9,7 +9,7 @@ consistent style.
 “never use global variables” to “never use exceptions.” This project
 ([helixgade/styleguide](https://github.com/helixgade/styleguide)) links to the
 style guidelines we use for Helixgade code. If you are modifying a project that
-originated at Google, you may be pointed to this page to see the style guides
+originated at Helixgade, you may be pointed to this page to see the style guides
 that apply to that project.
 
 This project holds the [C++ Style Guide][cpp], [C# Style Guide][csharp],
@@ -68,5 +68,5 @@ but we are primarily optimizing for Google's internal needs.
 [go]: https://golang.org/wiki/CodeReviewComments
 [dart]: https://www.dartlang.org/guides/language/effective-dart
 [ccl]: https://creativecommons.org/licenses/by/3.0/
-[dart]: https://google.github.io/styleguide/xmlstyle.html
+
 
